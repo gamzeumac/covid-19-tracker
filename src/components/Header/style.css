@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #261324;
+    font-size: xx-large;
+}
+
+.icon{
+    margin-top: 10px;
+}
+h5 {
+    display: flex;
+    justify-content: center;
+}
+.parantez{
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+.header{
+    margin-top: 30px;
+}
